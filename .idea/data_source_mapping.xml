@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/1APengenalan_Postgre.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/2BDatabase.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/3CTipeData.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/4DTable.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/And_Or_Operator.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Auto_increment.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Between_operator.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Constraint_1.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Groupping.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/IN_operator.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Join.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Like_operator.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Limit_operation.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/NULL_Operator.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Numeric_Function.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Order_By.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Prioritas_clause.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Select_distinct_data.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/Sequence.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/agregate_function.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/alias.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/check_constraint.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/constraint.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/date_and_time.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/enum.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/flow_control_function.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/foreignKey.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/index.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/one_to_one_relationship.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/postgresql.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/postgresql.sql.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/primary-key.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/query_insert.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/query_select.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/query_update.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/query_where.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/string_function.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+    <file url="file://$PROJECT_DIR$/where_operator.sql" value="705a9973-7935-421b-90a1-ffe9320a6f6b" />
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/1APengenalan_Postgre.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/2BDatabase.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/3CTipeData.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/4DTable.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/And_Or_Operator.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Auto_increment.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Between_operator.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Constraint_1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Groupping.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/IN_operator.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Join.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Like_operator.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Limit_operation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/NULL_Operator.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Numeric_Function.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Order_By.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Prioritas_clause.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Select_distinct_data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Sequence.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/agregate_function.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/alias.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/check_constraint.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/constraint.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/date_and_time.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/enum.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/flow_control_function.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/foreignKey.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/index.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/one_to_one_relationship.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/postgresql.sql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/primary-key.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/query_insert.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/query_select.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/query_update.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/query_where.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/string_function.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/where_operator.sql" dialect="PostgreSQL" />
+  </component>
+</project>

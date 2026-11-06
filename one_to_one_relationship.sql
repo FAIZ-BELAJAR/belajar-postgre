@@ -1,0 +1,1 @@
+select * from wishlist full join products on products.id = wishlist.id_products order by  products.id desc limit 1
